@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Slide.css'; // Đảm bảo đường dẫn đúng
+import './Slide.css';
 
 const Slide = () => {
   const [index, setIndex] = useState(0);
